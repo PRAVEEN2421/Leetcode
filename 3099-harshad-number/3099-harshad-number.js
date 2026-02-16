@@ -12,6 +12,6 @@ let temp = x
      sum += temp % 10
      temp = Math.floor(temp / 10)
  }
-  return  temp % sum === 0 ? sum : -1
+  return  x % sum === 0 ? sum : -1
    
 };
