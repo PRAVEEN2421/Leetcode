@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRAVEEN2421/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3099-harshad-number](https://github.com/PRAVEEN2421/Leetcode/tree/master/3099-harshad-number) |
 ## Sorting
 |  |
 | ------- |
