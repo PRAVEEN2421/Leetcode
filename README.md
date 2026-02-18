@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PRAVEEN2421/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRAVEEN2421/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/PRAVEEN2421/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2788-split-strings-by-separator](https://github.com/PRAVEEN2421/Leetcode/tree/master/2788-split-strings-by-separator) |
@@ -28,9 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PRAVEEN2421/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2788-split-strings-by-separator](https://github.com/PRAVEEN2421/Leetcode/tree/master/2788-split-strings-by-separator) |
 ## Binary Search
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/PRAVEEN2421/Leetcode/tree/master/1539-kth-missing-positive-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PRAVEEN2421/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
