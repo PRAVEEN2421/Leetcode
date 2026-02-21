@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PRAVEEN2421/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PRAVEEN2421/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2788-split-strings-by-separator](https://github.com/PRAVEEN2421/Leetcode/tree/master/2788-split-strings-by-separator) |
+| [2810-faulty-keyboard](https://github.com/PRAVEEN2421/Leetcode/tree/master/2810-faulty-keyboard) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PRAVEEN2421/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2810-faulty-keyboard](https://github.com/PRAVEEN2421/Leetcode/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
